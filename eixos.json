@@ -1,0 +1,37 @@
+[
+  {
+    "model": "guia.Eixo",
+    "pk": 1,
+    "fields": {
+      "nome": "Adicionais"
+    }
+  },
+  {
+    "model": "guia.Eixo",
+    "pk": 2,
+    "fields": {
+      "nome": "Afastamentos Acadêmicos"
+    }
+  },
+  {
+    "model": "guia.Eixo",
+    "pk": 3,
+    "fields": {
+      "nome": "Aposentadoria e Abonos"
+    }
+  },
+  {
+    "model": "guia.Eixo",
+    "pk": 4,
+    "fields": {
+      "nome": "Licenças e Afastamentos"
+    }
+  },
+  {
+    "model": "guia.Eixo",
+    "pk": 5,
+    "fields": {
+      "nome": "Movimentação e Remoção"
+    }
+  }
+]

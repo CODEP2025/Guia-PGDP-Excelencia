@@ -1,0 +1,128 @@
+[
+  {
+    "model": "guia.Procedimento",
+    "pk": 1,
+    "fields": {
+      "eixo": 3,
+      "titulo": "Abono Permanência Previdenciário",
+      "o_que_e": "Benefício ao servidor que completou requisitos para aposentadoria voluntária e opta por permanecer em atividade.",
+      "como_solicitar": "Protocolar RDV|Encaminhar o processo à PGDP para instrução funcional|Encaminhar à PROJUR para análise e parecer|Sendo deferido, implantar em folha",
+      "base_legal": "CF/1988, art. 40|EC nº 41/2003, art. 2º",
+      "link_sei": "",
+      "publico_alvo": "Servidores que cumpriram as exigências para aposentadoria voluntária e permanecem em atividade.",
+      "documentos_necessarios": "Requerimento de Direitos e Vantagens (RDV)|Cópia de RG e CPF"
+    }
+  },
+  {
+    "model": "guia.Procedimento",
+    "pk": 2,
+    "fields": {
+      "eixo": 3,
+      "titulo": "Abono Permanência em Atividade – Magistério Superior",
+      "o_que_e": "Abono ao docente em regência de classe que cumpriu todos os requisitos para aposentadoria com proventos integrais e opta por permanecer em atividade. Valor equivalente a 80% do salário base por até 5 anos.",
+      "como_solicitar": "Protocolar RDV|Encaminhar o processo à PGDP para instrução funcional|Encaminhar à PROJUR para análise e parecer",
+      "base_legal": "Lei nº 7.023/1997|Lei nº 8.352/2002, art. 32",
+      "link_sei": "",
+      "publico_alvo": "Docentes em regência de classe que cumpriram os requisitos de aposentadoria com proventos integrais e permanecem em atividade.",
+      "documentos_necessarios": "Requerimento de Direitos e Vantagens (RDV)|Cópia de RG e CPF|PIT"
+    }
+  },
+  {
+    "model": "guia.Procedimento",
+    "pk": 3,
+    "fields": {
+      "eixo": 1,
+      "titulo": "Adicional de Insalubridade/Periculosidade",
+      "o_que_e": "Adicional devido a servidores que atuam com habitualidade em locais insalubres, com substâncias tóxicas ou risco de vida.",
+      "como_solicitar": "Solicitar no protocolo do Departamento|Análise do Gestor e envio à PGDP|Encaminhamento à Junta Médica para análise|Sendo deferido, publicar Portaria e implantar em folha",
+      "base_legal": "Lei nº 6.677/1994, arts. 86 a 89|NR-15 e NR-16 (MTE)|Decreto nº 16.529/2016",
+      "link_sei": "",
+      "publico_alvo": "Servidores expostos a condições insalubres ou perigosas, conforme laudo.",
+      "documentos_necessarios": "RDV assinado pelo diretor|Documento da chefia com descrição das condições de trabalho|Carteira de identidade e CPF|Último contracheque|Diploma de graduação|Declaração do Departamento com curso/disciplinas"
+    }
+  },
+  {
+    "model": "guia.Procedimento",
+    "pk": 4,
+    "fields": {
+      "eixo": 2,
+      "titulo": "Afastamento de Professor para Curso no Brasil",
+      "o_que_e": "Afastamento para cursos de pós-graduação (mestrado, doutorado e pós-doutorado) no Brasil.",
+      "como_solicitar": "Solicitar afastamento via RDV no protocolo|Encaminhar à Direção para ciência|Encaminhar ao Colegiado do Curso de lotação|Encaminhamentos conforme normativas internas",
+      "base_legal": "Lei nº 8.352/2002, arts. 33 a 36|Resolução nº 1.110/2015",
+      "link_sei": "",
+      "publico_alvo": "Docentes aprovados em programa de pós-graduação.",
+      "documentos_necessarios": "RDV|Comprovante de aprovação no programa de pós-graduação"
+    }
+  },
+  {
+    "model": "guia.Procedimento",
+    "pk": 5,
+    "fields": {
+      "eixo": 4,
+      "titulo": "Licença Maternidade",
+      "o_que_e": "Afastamento remunerado assegurado à servidora gestante (180 dias para estatutárias/comissionadas; 120 dias para REDA).",
+      "como_solicitar": "Solicitar via RDV no protocolo do Departamento|Redistribuição das disciplinas pelo Colegiado|Direção encaminha o processo à PGDP|PGDP analisa|Publica-se a Portaria",
+      "base_legal": "CF/1988, art. 7º, XVIII|CE/BA, art. 41, IX|Lei nº 6.677/1994, arts. 154 a 158|Pareceres PGE PA-NPE-CSS-190-2011 e PA-NPE-CSS-488-2010",
+      "link_sei": "",
+      "publico_alvo": "Servidoras gestantes da UNEB (conforme regime).",
+      "documentos_necessarios": "RDV|Certidão de nascimento|Atestado médico original, quando aplicável"
+    }
+  },
+  {
+    "model": "guia.Procedimento",
+    "pk": 6,
+    "fields": {
+      "eixo": 4,
+      "titulo": "Licença para Concorrer a Mandato Eletivo",
+      "o_que_e": "Licença para servidor estável candidatar-se a cargo eletivo e, se eleito, nova licença para o exercício.",
+      "como_solicitar": "Preencher RDV e protocolar com documentos comprobatórios|Análise pelas instâncias competentes|Demais encaminhamentos internos",
+      "base_legal": "Lei nº 6.677/1994, arts. 104 a 106",
+      "link_sei": "",
+      "publico_alvo": "Servidores estáveis candidatos a cargo eletivo.",
+      "documentos_necessarios": "RDV|Ata de homologação do partido|Comprovante de registro da candidatura"
+    }
+  },
+  {
+    "model": "guia.Procedimento",
+    "pk": 7,
+    "fields": {
+      "eixo": 4,
+      "titulo": "Licença Prêmio por Assiduidade",
+      "o_que_e": "Direito a 3 meses de licença a cada 5 anos de exercício efetivo e ininterrupto, conforme regras vigentes.",
+      "como_solicitar": "Solicitar via RDV no protocolo com 4 meses de antecedência|Direção envia ao Colegiado para apreciação e redistribuição de disciplinas|Direção encaminha ao Conselho do Departamento|Aprovado, enviar à PGDP para análise e publicação",
+      "base_legal": "Lei nº 6.677/1994, arts. 107 a 110|Lei nº 13.471/2015|Resolução nº 229/2003 (CONSU)",
+      "link_sei": "",
+      "publico_alvo": "Servidores que cumprirem os requisitos legais nos prazos da legislação atual.",
+      "documentos_necessarios": "RDV"
+    }
+  },
+  {
+    "model": "guia.Procedimento",
+    "pk": 8,
+    "fields": {
+      "eixo": 5,
+      "titulo": "Movimentação",
+      "o_que_e": "Deslocamento do servidor no âmbito da UNEB.",
+      "como_solicitar": "Solicitação pode partir do docente, do Departamento ou de outro Departamento|Encaminhar aos Departamentos de lotação e receptor para análise e deliberação|Aprovada a solicitação, encaminhar à PGDP|Publica-se a Portaria",
+      "base_legal": "Lei nº 8.352/2002, arts. 37 e 39|Resolução nº 226/2003 (CONSU)",
+      "link_sei": "",
+      "publico_alvo": "Docentes, conforme necessidades de ensino, pesquisa e extensão.",
+      "documentos_necessarios": "RDV|Justificativa da movimentação|Identificação do Departamento de origem e destino|PIT online validado|Curriculum vitae|Certidões de atas dos Conselhos"
+    }
+  },
+  {
+    "model": "guia.Procedimento",
+    "pk": 9,
+    "fields": {
+      "eixo": 5,
+      "titulo": "Remoção",
+      "o_que_e": "Deslocamento do servidor para outra Universidade Estadual.",
+      "como_solicitar": "Solicitação pode partir do docente, do Departamento ou da Universidade receptora|Encaminhar às instâncias (Departamento de lotação e Universidade receptora) para análise|Aprovada, encaminhar à PGDP para análise e encaminhamentos",
+      "base_legal": "Lei nº 8.352/2002, arts. 37 e 39|Resolução nº 226/2003 (CONSU)",
+      "link_sei": "",
+      "publico_alvo": "Docentes, conforme necessidades institucionais e normativas.",
+      "documentos_necessarios": "RDV|Justificativa da remoção|Identificação da Universidade de destino e do Departamento de origem|Demais documentos comprobatórios"
+    }
+  }
+]
